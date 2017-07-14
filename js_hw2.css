@@ -1,0 +1,16 @@
+body {
+  padding: 20px;
+}
+button {
+  height: 30px;
+  width:300px;
+  background: salmon;
+  font-size: 20px;
+}
+button:hover {
+  background: lightsalmon;
+}
+
+#dontHover{
+	font-size: 40px;
+}
